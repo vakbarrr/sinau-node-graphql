@@ -1,0 +1,15 @@
+{
+  "name": "sinau-node-graphql",
+  "version": "1.0.0",
+  "description": "A Graphql implementation with NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/vakbarrr/sinau-node-graphql.git",
+  "author": "Gian Akbar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "nodemon": "^2.0.20"
+  }
+}
